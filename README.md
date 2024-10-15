@@ -11,21 +11,10 @@
 
 ### 🧑‍💻 About Me:
 - 💼 **Freelance Projects**: You can find all of my paid work on [Tebex Store](https://force.tebex.io/) and free work on my GitHub!
-- 💡 **Exploring Tech**: I love diving into new technologies and applying them to creative solutions.
 - 🛠 **Specialization**: Strong focus on frontend and web development, with expertise in FiveM.
 - 💬 **Contact Me**: 
    - **Email**: forcedevelopments@gmail.com 
    - **Discord**: @force3883
-
----
-
-### 🌐 Connect with Me:
-<p align="center">
-  <a href="https://www.youtube.com/c/forcedevelopments" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" width="40" /></a>
-  <a href="https://discord.gg/S9k6mp27D9" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="40" width="40" /></a>
-  <a href="https://www.twitch.tv/forcedevelopments" target="_blank"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" alt="Twitch" /></a>
-  <a href="https://ko-fi.com/forcedevelopments" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi" /></a>
-</p>
 
 ---
 
